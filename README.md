@@ -2,6 +2,8 @@ OMDB API Movie Poster Project
 
 This project utilizes Fetch, thens, catches, and localStorage to pull in data from an API and then use functionality to reduce the amount of pings that are needed to access data.
 
+Netlify Link: https://thirsty-curran-50d5cb.netlify.app/
+
 - Input accepts type to search for a movie
 - Titles of two words are more have their spaces converted to +s to be able to be read by the API
 - Fetches attempt to load data locally first before actually calling their fetch
